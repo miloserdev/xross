@@ -1,6 +1,6 @@
 {
   "name": "xross",
-  "version": "1.0.0",
+  "version": "1.0.0-1",
   "description": "Simple http/https router",
   "main": "index.js",
   "scripts": {
