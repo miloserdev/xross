@@ -1,0 +1,25 @@
+{
+  "name": "xross",
+  "version": "1.0.0",
+  "description": "Simple http/https router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miloserdev/xross.git"
+  },
+  "keywords": [
+    "web",
+    "http",
+    "https",
+    "router"
+  ],
+  "author": "Miloserdev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miloserdev/xross/issues"
+  },
+  "homepage": "https://github.com/miloserdev/xross#readme"
+}
